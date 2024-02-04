@@ -14,17 +14,10 @@ description: 안녕하세요! 백엔드 개발자 조영재입니다! 👋🏻
 
 일상을 공유하는 다이어리 입니다.
 
-
-
 ### Contact
 
-📧 Email : [jyj1143@gmail.com](mailto:jyj1143@gmail.com)&#x20;
+📧 **Email** : [jyj1143@gmail.com](mailto:jyj1143@gmail.com)&#x20;
 
-💾 Github : [https://github.com/jyj1143](https://github.com/jyj1143)
+💾 **Github** : [https://github.com/jyj1143](https://github.com/jyj1143)
 
-
-
-
-
-
-
+&#x20;📚**Blog** : [https://youngjaes-tech-blog.gitbook.io/docs/](https://youngjaes-tech-blog.gitbook.io/docs/)
