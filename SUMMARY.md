@@ -10,3 +10,4 @@
   * [4장 클래스, 객체, 인터페이스](study/kotlin-in-action/4.md)
   * [5장 람다로 프로그래밍](study/kotlin-in-action/5.md)
   * [6장 코틀린의 타입 시스템](study/kotlin-in-action/6.md)
+  * [7장 연산자 오버로딩과 기타 관례](study/kotlin-in-action/7.md)
